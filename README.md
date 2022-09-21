@@ -1,0 +1,12 @@
+| First Header             | Second Header                                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| Abstract Factory         | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/abstractfactory) |
+| Adapter                  | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/adapter)         |
+| Chains of responsobility | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/chainofresponsobility)                                                                                              |
+| Command                  | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/command)                                                                                          |
+| Decorator                | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/decorator)                                                                                          |
+| Facade                   | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/facade)                                                                                          |
+| Factory method           | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/factorymethod)                                                                                          |
+| Singleton                | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/singleton)                                                                                          |
+| Strategy                 | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/strategy)                                                                                          |
+| Template method          | [link](https://github.com/antufievsemen/infocomuncation-system/tree/master/task/main/templatemethod)                                                                                          |
